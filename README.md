@@ -43,3 +43,10 @@ This project is part of my learning journey.
 
 The data used in this spreadsheet is fictional and created for demonstration purposes only.
 
+## Preview
+
+<img width="1080" height="1495" alt="Print Planilha" src="https://github.com/user-attachments/assets/313362da-8d33-4770-a608-fab08d90dd44" />
+
+
+
+
